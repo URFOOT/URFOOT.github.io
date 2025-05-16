@@ -1,0 +1,151 @@
+body {
+    background: linear-gradient(to right, #333 0%, black 50%, #333 100%);
+}
+
+
+.TOP {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    background-color: grey;
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .PARA {
+    color: rgb(255, 255, 255);
+    font-size: .8cm;
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 1);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   
+  }
+
+  .HEAD {
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 5px rgb(207, 207, 207);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .CUT {
+    color: grey;
+    background-color: grey;
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+  }
+
+  .imagecontrol {
+    width: 800px;
+    height: 600px;
+    display: block;          
+    margin-left: auto;      
+    margin-right: auto;     
+    opacity: 0.8;
+}
+
+.Achievements {
+    text-align: left;
+    font-size: 1.2cm;
+    font-style: italic;
+    color: rgb(187, 187, 20);
+    text-shadow: 2px 2px 5px rgb(184, 125, 16);
+}
+
+.HEAD2 {
+    color: rgb(255, 251, 0);
+    text-shadow: 2px 2px 5px rgb(255, 166, 0);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .PARA2 {
+    color: rgb(17, 0, 255);
+    font-size: .8cm;
+    text-shadow: 2px 2px 5px rgb(0, 204, 255);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   
+  }
+
+  .HEAD3 {
+    color: rgb(255, 0, 0);
+    text-shadow: 2px 2px 5px rgb(146, 21, 21);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .HEAD4 {
+    color: rgb(194, 17, 218);
+    text-shadow: 2px 2px 5px rgb(156, 17, 156);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .CS {
+    color: rgb(201, 23, 192);
+    font-size: .8cm;
+    text-shadow: 2px 2px 5px rgb(131, 22, 141);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: left;
+   
+  }
+
+  .SKILLS {
+    color: rgb(79, 206, 29);
+    font-size: .8cm;
+    text-shadow: 2px 2px 5px rgb(29, 250, 0);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: left;
+   
+  }
+
+  .HEAD5 {
+    color: rgb(22, 226, 141);
+    text-shadow: 2px 2px 5px rgb(1, 114, 6);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .HEAD6 {
+    color: rgb(252, 165, 3);
+    text-shadow: 2px 2px 5px rgb(114, 61, 1);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+   text-decoration: underline;
+  }
+
+  .OVERALL {
+    color: rgb(161, 98, 2);
+    font-size: .8cm;
+    text-shadow: 2px 2px 5px rgb(250, 0, 0);
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: left;
+   
+  }
+
+  .CUTSecret {
+    color: grey;
+    background-color: grey;
+    margin-top: 20px; 
+    font-style: oblique;
+   text-align: center;
+  }
